@@ -1,2 +1,2 @@
 # n-queens
-This is a project I completed with another developer.  You can test how many queens or rooks could fit on an n X n board, so that the pieces are not in each other's path.  Have fun playing around with it!
+This project is an iteration of the classic n-queens CS problem.  The idea is to determine how many queens you can fit on an NxN chessboard, so that no two queens can attack each other.  You can also calculate the number of rooks you could fit on an NxN chessboard. Enjoy!
